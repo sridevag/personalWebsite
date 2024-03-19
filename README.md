@@ -1,2 +1,1 @@
-# personalWebsite
-my personal website
+# hostingPersonalWebsite
